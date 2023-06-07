@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/h91RglG.mp4" alt="screenshot of space cream">
+<img src="https://i.imgur.com/wzkgyjG.png" alt="screenshot of space cream">
 </p>
 
 🇺🇸
